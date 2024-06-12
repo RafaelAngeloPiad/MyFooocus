@@ -4,12 +4,12 @@
     "default_refiner_switch": 0.4,
     "default_loras": [
         [
-            true,
+            false,
             "hands.safetensors",
             0.3
         ],
         [
-            true,
+            false,
             "feet.safetensors",
             1.0
         ],
@@ -24,7 +24,7 @@
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ]
