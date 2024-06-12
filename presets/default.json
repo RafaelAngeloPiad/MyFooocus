@@ -1,30 +1,30 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
-    "default_refiner": "None",
+    "default_model": "dreamshaperxl.safetensors",
+    "default_refiner": "tissuemixreality.safetensors",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            true,
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
-        ],
-        [
-            true,
+            false,
             "None",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ],
         [
-            true,
+            false,
+            "None",
+            1.0
+        ],
+        [
+            false,
             "None",
             1.0
         ]
