@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXLRunDiffusion.safetensors",
+    "default_model": "stoiqoafroditeXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.4,
     "default_loras": [
@@ -43,7 +43,8 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXLRunDiffusion.safetensors": "https://civitai.com/api/download/models/456194?token=9c7664e3c91a4a84db46d2b4334de241"
+        "stoiqoafroditeXL.safetensors": "https://civitai.com/api/download/models/450105?token=9c7664e3c91a4a84db46d2b4334de241",
+        "majicMixrealistic.safetensors": "https://civitai.com/api/download/models/176425?token=9c7664e3c91a4a84db46d2b4334de241"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
