@@ -44,7 +44,8 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "iNiverseMixXL.safetensors": "https://civitai.com/api/download/models/553068?token=9c7664e3c91a4a84db46d2b4334de241",
-        "majicMixrealistic.safetensors": "https://civitai.com/api/download/models/176425?token=9c7664e3c91a4a84db46d2b4334de241"
+        "majicMixrealistic.safetensors": "https://civitai.com/api/download/models/176425?token=9c7664e3c91a4a84db46d2b4334de241",
+        "realisticvis.safetensors": "https://civitai.com/api/download/models/501240?token=9c7664e3c91a4a84db46d2b4334de241"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
