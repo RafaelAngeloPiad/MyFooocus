@@ -5,18 +5,18 @@
     "default_loras": [
         [
             false,
-            "hands.safetensors",
+            "None",
             0.3
         ],
         [
             false,
-            "feet.safetensors",
+            "None",
             1.0
         ],
         [
             true,
             "perfectEyesXL.safetensors",
-            1.0
+            0.8
         ],
         [
             true,
