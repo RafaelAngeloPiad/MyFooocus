@@ -14,13 +14,13 @@
             1.0
         ],
         [
-            true,
-            "perfectEyesXL.safetensors",
+            false,
+            "None",
             0.8
         ],
         [
-            true,
-            "perfection.safetensors",
+            false,
+            "None",
             1.0
         ],
         [
@@ -44,16 +44,13 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "iNiverseMixXL.safetensors": "https://civitai.com/api/download/models/553068?token=9c7664e3c91a4a84db46d2b4334de241",
-        "majicMixrealistic.safetensors": "https://civitai.com/api/download/models/176425?token=9c7664e3c91a4a84db46d2b4334de241",
-        "realisticvis.safetensors": "https://civitai.com/api/download/models/501240?token=9c7664e3c91a4a84db46d2b4334de241"
+        "kawaiimix.safetensors": "https://civitai.com/api/download/models/262227?token=9c7664e3c91a4a84db46d2b4334de241"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "hands.safetensors": "https://civitai.com/api/download/models/471794?token=9c7664e3c91a4a84db46d2b4334de241",
-        "feet.safetensors": "https://civitai.com/api/download/models/225347?token=9c7664e3c91a4a84db46d2b4334de241",
+        "polyhedronallXL.safetensors": "https://civitai.com/api/download/models/148926?token=9c7664e3c91a4a84db46d2b4334de241",
         "detailTweakerXL.safetensors": "https://civitai.com/api/download/models/135867?token=9c7664e3c91a4a84db46d2b4334de241",
-        "perfectEyesXL.safetensors": "https://civitai.com/api/download/models/128461?token=9c7664e3c91a4a84db46d2b4334de241",
-        "perfection.safetensors": "https://civitai.com/api/download/models/458257?token=9c7664e3c91a4a84db46d2b4334de241"
+        "perfectionXL.safetensors": "https://civitai.com/api/download/models/458257?token=9c7664e3c91a4a84db46d2b4334de241"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
