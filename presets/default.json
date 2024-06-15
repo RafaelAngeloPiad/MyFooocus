@@ -5,8 +5,8 @@
     "default_loras": [
         [
             false,
-            "None",
-            0.3
+            "perfectionXL.safetensors",
+            0.9
         ],
         [
             false,
@@ -50,7 +50,8 @@
     "lora_downloads": {
         "polyhedronallXL.safetensors": "https://civitai.com/api/download/models/148926?token=9c7664e3c91a4a84db46d2b4334de241",
         "detailTweakerXL.safetensors": "https://civitai.com/api/download/models/135867?token=9c7664e3c91a4a84db46d2b4334de241",
-        "perfectionXL.safetensors": "https://civitai.com/api/download/models/458257?token=9c7664e3c91a4a84db46d2b4334de241"
+        "perfectionXL.safetensors": "https://civitai.com/api/download/models/458257?token=9c7664e3c91a4a84db46d2b4334de241",
+        "perfectEyesXL.safetensors": "https://civitai.com/api/download/models/128461?token=9c7664e3c91a4a84db46d2b4334de241"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
