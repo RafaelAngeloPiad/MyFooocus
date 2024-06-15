@@ -6,17 +6,17 @@
         [
             false,
             "perfectionXL.safetensors",
-            0.9
-        ],
-        [
-            false,
-            "None",
             1.0
         ],
         [
             false,
-            "None",
-            0.8
+            "detailTweakerXL.safetensors",
+            2.0
+        ],
+        [
+            false,
+            "polyhedronallXL.safetensors",
+            0.02
         ],
         [
             false,
