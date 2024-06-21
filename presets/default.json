@@ -1,5 +1,5 @@
 {
-    "default_model": "",
+    "default_model": "realisticStockPhotoXLv2.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.4,
     "default_loras": [
@@ -11,7 +11,7 @@
         [
             false,
             "None",
-            1.0
+            2.0
         ],
         [
             false,
@@ -43,6 +43,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
+        "realisticStockPhotoXLv2.safetensors": "https://huggingface.co/tensor-diffusion/Realistic_Stock_Photo_v2/resolve/main/Realistic_Stock_Photo_v2.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
